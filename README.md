@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Curso JS Practico - Platzi
 
 ## Taller #1: Figuras geométricas
